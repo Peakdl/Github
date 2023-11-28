@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Backend Course</h1>
+    <h3>Day 7</h3>
+    <hr>
 </body>
 </html>
