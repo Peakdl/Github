@@ -11,8 +11,6 @@
     <hr>
     <h4>Today we learned about:</h4>
     <p>We took Git and Github we learned how to add collaborators</p>
-    <video width="320" height="240" controls>
-        <source src="/Screen Recording 2023-11-28 at 7.36.06 PM.mov" type="video/mp4">
-        </video>
+    <img src="./Screenshot 2023-11-29 at 6.09.13 PM.png" alt="Collaborators Page" width="500" height="500">
 
 </html>
