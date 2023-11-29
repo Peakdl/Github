@@ -15,5 +15,4 @@
         <source src="/Screen Recording 2023-11-28 at 7.36.06 PM.mov" type="video/mp4">
         </video>
 
-    </body>
 </html>
