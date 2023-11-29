@@ -11,6 +11,6 @@
     <hr>
     <h4>Today we learned about:</h4>
     <p>We took Git and Github we learned how to add collaborators</p>
-    <img src="./Screenshot 2023-11-29 at 6.09.13 PM.png" alt="Collaborators Page">
+    <img src="./Collab.png" alt="Collaborators Page">
 
 </html>
