@@ -12,6 +12,11 @@
     <h4>Today we learned about:</h4>
     <p>We took Git and Github we learned how to add collaborators</p>
     <img src="./Collab.png" alt="Collaborators Page">
-<br>
+<hr>
 <p>Then we learned about how to fix commit errors</p>
+<ul>
+    <li>
+        1-Both make changes to the same file and push
+    </li>
+    </ul>
 </html>
