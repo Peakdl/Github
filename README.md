@@ -1,2 +1,3 @@
-Markup :  # Backend Course #
+Backend Course
 ===========================
+Markup : ![Collaborators page](./Collab.png "Collab")
