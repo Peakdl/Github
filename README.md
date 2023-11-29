@@ -14,12 +14,12 @@
     <img src="./Collab.png" alt="Collaborators Page">
 <hr>
 <h3>Then we learned about how to fix commit errors:</h3>
-<ul>
+<h4><ul>
     <li>
         1-Both make changes to the same file and push
         <li>
             How to stop this from happening
         </li>
     </li>
-    </ul>
+    </ul></h4>
 </html>
