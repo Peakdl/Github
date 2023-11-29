@@ -11,6 +11,7 @@
     <hr>
     <h4>Today we learned about:</h4>
     <p>We took Git and Github we learned how to add collaborators</p>
-    <img src="./Collab.png" alt="Collaborators Page">
-
+    <img src="./Collab.png" alt="Collaborators Page" width="500" height="500">
+<br>
+<p>Then we learned about how to fix commit errors</p>
 </html>
