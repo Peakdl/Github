@@ -18,7 +18,7 @@
     <li>
         1-Both make changes to the same file and push
         <li>
-            How to stop this from happening
+          <h5>  How to stop this from happening <h5>
         </li>
     </li>
     </ul></h4>
