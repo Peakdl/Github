@@ -1,3 +1,3 @@
 Backend Course
 ===========================
-Markup : ![Collaborators page](./Collab.png "Collab")
+We Learned how to add Collaborators![Collaborators page](./Collab.png "Collab")
