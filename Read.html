@@ -18,7 +18,9 @@
     <li>
         1-Both make changes to the same file and push
         <li>
-          <h5>  How to stop this from happening <h5>
+          <h5>  How to stop this from happening
+          Make a group chat and message everytime you make a change
+           <h5>
         </li>
     </li>
     </ul></h4>
